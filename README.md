@@ -14,3 +14,4 @@ After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/
 
 - [The Ultimate Guide to Video Production](#the-ultimate-guide-to-video-production)
   - [Preface](#preface)
+- [Table of Contents](#table-of-contents)
