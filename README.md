@@ -9,3 +9,8 @@ I've spent a lot of time doing my own little productions with OBS, and each and 
 My goal with this repo is to take all the information I know and throw it in one place with as many sources as possible, while also letting people check my work, contribute, and to overall provide a very detailed and organized guide for anyone to come and read. 
 
 After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/r/obs/) that don't really know better, this is what I started.
+
+# Table of Contents
+
+- [The Ultimate Guide to Video Production](#The Ultimate Guide to Video Production)
+      - [Preface](#Preface)
