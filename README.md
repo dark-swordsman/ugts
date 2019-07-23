@@ -15,3 +15,12 @@ After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/
 - [The Ultimate Guide to Video Production](#the-ultimate-guide-to-video-production)
   - [Preface](#preface)
 - [Table of Contents](#table-of-contents)
+- [What is Video Production?](#what-is-video-production?)
+
+# What is Video Production?
+
+[CWM Studios](http://www.cwmstudios.com/98/the-three-phases-of-video-production.html) has a pretty good definition of Video Production: "There are three main processes to putting a video together: pre-production, filming and editing."
+
+However, for all intents and purposes, video production in this article can mean literally anything that has to do with video. Whether it be OBS Studio, video encoding settings, editing software, how to uses these softwares, how Psycho Visual Tuning works, what Node.js and how to use it for overlays, what the heck is a codec?!, what a processors is, what NDI and SSSE3 instructions are, and so on.
+
+This article, at least for the time being, will be mostly focused on OBS Studio, encoding settings, technologies like NDI and new NVENC, how to use basic editing software, why it's important to understand the basics of computer hardware like CPUs (processors), etc.
