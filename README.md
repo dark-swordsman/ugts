@@ -10,6 +10,8 @@ My goal with this repo is to take all the information I know and throw it in one
 
 After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/r/obs/) that don't really know better, this is what I started.
 
+By the way, this whole article will be mostly focused around the idea of gamers that are streaming/recording, and not so much people doing large, live productions or vlogs/documentaries, etc. It's really to drive home a good stream/recording quality and to get extremely nerdy about encoding, the do's and dont's, etc.
+
 ***
 
 # Table of Contents
@@ -20,7 +22,9 @@ After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/
 - [Introduction](#introduction)
   - [What is Video Production?](#what-is-video-production)
   - [Recording or Streaming?](#recording-or-streaming)
-  
+- [Getting Started with Streaming](#getting-started-with-streaming)
+- [Getting Started with Recording](#getting-started-with-recording)
+
 ***
 
 # Introduction
@@ -41,3 +45,10 @@ For Streaming, it's all about getting everything ready beforehand and making thi
 
 For Recording, there's a lot of room for error, except after you're done capturing, you don't just end, you now have to edit and post-process, so there's a whole 'nother workflow, set of programs, and mindset compared to live production. You'll likely be recording gameplay in something like OBS Studio, or if it's a short film/vilog/etc. you'll have your camera to record. From there, you'll injest all your data into a folder or location for a project, open up your editing software (like Sony Vegas, Premiere, etc.) and get started editing. Once you're satisfied, you can export it with a collection of settings for resoltion, bitrate, codec, etc. and you can upload it/sent it where you need.
 
+***
+
+# Getting Started with Streaming
+
+***
+
+# Getting Started with Recording
