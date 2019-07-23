@@ -12,5 +12,5 @@ After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/
 
 # Table of Contents
 
-- [The Ultimate Guide to Video Production](#The Ultimate Guide to Video Production)
-      - [Preface](#Preface)
+- [The Ultimate Guide to Video Production](#the-ultimate-guide-to-video-production)
+      - [Preface](#preface)
