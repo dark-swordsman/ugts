@@ -10,6 +10,8 @@ My goal with this repo is to take all the information I know and throw it in one
 
 After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/r/obs/) that don't really know better, this is what I started.
 
+***
+
 # Table of Contents
 
 - [The Ultimate Guide to Video Production](#the-ultimate-guide-to-video-production)
@@ -17,6 +19,8 @@ After getting so fed up trying to help people on [r/OBS](https://www.reddit.com/
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
   - [What is Video Production?](#what-is-video-production)
+  
+***
 
 # Getting Started
 
