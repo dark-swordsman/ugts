@@ -4,7 +4,7 @@ This GitHub repository is intended to serve as an aggregate for all sorts of dat
 
 ## Preface
 
-I've spent a lot of time doing my own little productions with OBS, and each and every time I tried doing it, I always found something that got in my way preventing me from reaching my goal to make a high quality production, whether it be images, overlays, encoding settings, cameras, etc.
+I've spent a lot of time doing my own little productions with OBS to Twitch or cameras and editing software for YouTube, and each and every time I tried doing it, I always found something that got in my way preventing me from reaching my goal to make a high quality production, whether it be images, overlays, encoding settings, cameras, etc.
 
 My goal with this repo is to take all the information I know and throw it in one place with as many sources as possible, while also letting people check my work, contribute, and to overall provide a very detailed and organized guide for anyone to come and read. 
 
