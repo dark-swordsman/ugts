@@ -44,11 +44,3 @@ There's a good chance if you're reading this article, that you're doing one or t
 For Streaming, it's all about getting everything ready beforehand and making things easy so, while you're live, you don't have to do much fiddling and stuff just works. It about getting transitions, overlays, and video feeds smooth and well timed, finding ways to reduce your performance requirements, as well as making sure your audio is on key. You'll be switching scenes a lot and interacting with chat, or if you're not interacting with chat, there's a good chance you have a full production and are casting a torunament or something.
 
 For Recording, there's a lot of room for error, except after you're done capturing, you don't just end, you now have to edit and post-process, so there's a whole 'nother workflow, set of programs, and mindset compared to live production. You'll likely be recording gameplay in something like OBS Studio, or if it's a short film/vilog/etc. you'll have your camera to record. From there, you'll injest all your data into a folder or location for a project, open up your editing software (like Sony Vegas, Premiere, etc.) and get started editing. Once you're satisfied, you can export it with a collection of settings for resoltion, bitrate, codec, etc. and you can upload it/sent it where you need.
-
-***
-
-# Getting Started with Streaming
-
-***
-
-# Getting Started with Recording
